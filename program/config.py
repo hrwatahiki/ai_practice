@@ -1,0 +1,1 @@
+DB_PATH = r"D:\Users\Other\venv\ai\db\data.db"
